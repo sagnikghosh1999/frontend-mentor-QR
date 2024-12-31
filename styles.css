@@ -48,8 +48,9 @@ body {
     flex-direction: column;
     padding: 16px;
     margin: 24px;
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: var(--white);
+    box-shadow: 5px 5px 25px rgba(0, 0, 0, 0.1);
 }
 
 .card-img img {
